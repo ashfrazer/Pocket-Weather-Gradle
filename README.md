@@ -28,4 +28,4 @@ If you do not have Maven installed, navigate to the *WeatherApp* class and run t
 Proceed to enter in a zip code of your choice, and then enjoy the results!
 
 ## How to Test Pocket Weather (Gradle)
-The class **WeatherScraperTest** is a test class that ensures that any potential errors found in scraping weather data are caught. To run the test, navigate to the project's directory in your terminal and enter `gradlew test`. This will execute **WeatherScraperTest**.
+The class **WeatherScraperTest** is a test class that ensures that any potential errors found in scraping weather data are caught. To run the test, navigate to the project's directory in your terminal and enter `gradlew clean test`. This will execute **WeatherScraperTest**.
