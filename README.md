@@ -18,6 +18,8 @@ Note that there are some new additions to this application from the last project
 ## How to Run Pocket Weather
 Once you clone this repository, there are a few different options to run Pocket Weather.
 
+Open the terminal in your IDE and run the command `gradlew clean build`.
+
 If you want to run the JAR file, open your terminal and navigate to the project. Then, enter the command `java -jar build/libs/PocketWeather-1.0-SNAPSHOT.jar`.
 
 Another option is to open your IDE and enter `gradlew run` into the terminal. 
